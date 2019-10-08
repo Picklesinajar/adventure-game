@@ -1,8 +1,17 @@
 a{
-    background-color:lightgray;
+    background-color:white;
     padding:4px;
     border-radius: 15px;
     text-decoration:none;
     font-family: 'News Cycle', sans-serif;
     color: black;
   }
+body{
+    background-color:lightskyblue;
+}
+h1{
+    font-family: 'News Cycle', sans-serif;
+}
+h3{
+    font-family: 'News Cycle', sans-serif;
+}

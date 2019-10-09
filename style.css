@@ -1,17 +1,28 @@
 a{
-    background-color:white;
+    background-color: black;
     padding:4px;
     border-radius: 15px;
     text-decoration:none;
     font-family: 'News Cycle', sans-serif;
-    color: black;
+    color: white;;
   }
 body{
-    background-color:lightskyblue;
+    background-color: darkred;
 }
 h1{
     font-family: 'News Cycle', sans-serif;
+    color: white;
 }
 h3{
     font-family: 'News Cycle', sans-serif;
+    color: white;
+}
+img {
+	margin: 10px;
+	border-color: black;
+	border-width: 4px;
+	border-style: solid;
+	display: block;
+	width: 300px;
+	height: 216px;
 }
